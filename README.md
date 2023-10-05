@@ -12,7 +12,7 @@ This is a simple web project that allows users to change the shape and color of 
 
 ## Demo
 
-You can view a live demo of this project [https://ankit64s.github.io/changeShapeAndColor/](#LiveDemoLink).
+You can view a live demo of this project [https://ankit64s.github.io/changeShapeAndColor/](#)
 
 ## Features
 
